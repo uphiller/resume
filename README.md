@@ -10,7 +10,7 @@
 - 블록체인 강의 및 발표(SKP 이오스 컨트랙트 강의, [GDG부산](https://concert.or.kr/suf2018/program/program.php), [해킹방지워크샵](https://concert.or.kr/suf2018/program/program.php), [패스트캠퍼스](https://www.fastcampus.co.kr/dev_camp_eos/?gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyJB4DB7Vak3YvJXJ9IslTflWFCvBpgLvZ2whMzu5duc3TZjWiFuQTkaAipSEALw_wcB)  )
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
 - [토큰뱅크 어드민 사이트 개발](http://tokenbank.com)
--  사용기술 : python, django, nodejs, AWS
+-  사용기술 : python, django, nodejs, AWS, vuejs, blockchain
 
 ### [벤디스](sikdae.com)
 - DevOps
