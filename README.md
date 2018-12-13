@@ -34,7 +34,7 @@
 
 ### [엘티케이솔루션](http://www.ltksolution.com/)
 - SI 개발
-- 2011.02 ~ 2014.02
+- 2010.02 ~ 2014.02
 ##### 프로젝트
 - 범한판토스 정산 시스템 개발(SAP, davon, Gauce)
 - 삼성 안드로이드 앱스토어 빌드팀(jenkins, weblogic)
