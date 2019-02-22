@@ -1,7 +1,6 @@
 # infomation
 - jason.uphiller@gmail.com
 - https://medium.com/@preiner
-- http://harbris.tistory.com
 
 # Career	
 ### [핵슬란트](http://www.hexlant.com)
