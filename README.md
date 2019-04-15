@@ -29,7 +29,7 @@
 - 사용기술 :  구글클라우드, spring
 
 ### [인터파크]
-- 인터파크도서(http://www.interpark.com)
+- [인터파크도서](http://book.interpark.com)
 - 백엔드 개발
 - 2014.03 ~ 2015.03
 - 인터파크 도서 사이트 개발
@@ -52,7 +52,7 @@
 
 ### 번외 프로젝트
 - 지엔클라우드 서비스 개발(kvm, python, flask, aws)
-- [플랜치 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
+- [ 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
 
 
 # 현재 원하는 직장
