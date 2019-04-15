@@ -21,19 +21,19 @@
 - 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 페이지 개발
 - 사용기술 : React, CSS, SASS, electron
 
-### f5family
+#### f5family
 - Frontend developer
 - 2015.10 ~ 2016.08
 - 사고접수 어플리케이션, 노래방검색 어플리케이션, 심리상담 서비스, 키즈카페 입/퇴장관리 어플리케이션
 - Android, Jquery, Bootstrap
 
-### 더몰
+#### 더몰
 - [더몰](http://www.the-mall.kr)
 - 쇼핑몰 개발 담당
 - 2015.05 ~ 2015.09
 - Spring, Jquery
 
-### 시시엔 소프트
+#### 시시엔 소프트
 - 외주 사이트 개발
 - 2012.11 ~ 2015.04
 - 기아자동차 어플리케이션 관리 웹서비스, OllehTV 관리자 서비스, 보험사 및 펀드회원 관리 서비스 
@@ -41,9 +41,9 @@
 
 ## Backend developer Career
 
-### 현재 프리랜서 프로젝트 진행중
+#### 현재 프리랜서 프로젝트 진행중
 
-### 핵슬란트
+#### 핵슬란트
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
 - [토큰뱅크 어드민 사이트 개발](http://tokenbank.com)
 - [블록체인 노드 서비스](http://test-node.hexlant.com/api-docs/)
@@ -52,7 +52,7 @@
 - 블록체인 강의 및 발표(SKP 이오스 컨트랙트 강의, [GDG부산](https://festa.io/events/119), [해킹방지워크샵](https://concert.or.kr/suf2018/program/program.php), [패스트캠퍼스](https://www.fastcampus.co.kr/dev_camp_eos/?gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyJB4DB7Vak3YvJXJ9IslTflWFCvBpgLvZ2whMzu5duc3TZjWiFuQTkaAipSEALw_wcB)  )
 -  사용기술 : python, django, nodejs, AWS, vuejs, blockchain
 
-### 벤디스
+#### 벤디스
 - [식권대장](http://sikdae.com)
 - DevOps
 - 2017.02 ~ 2018.06
@@ -60,7 +60,7 @@
 - 인프라 전체관리 , CI/CD관리
 - 사용기술 :  AWS, gitlab, jenkins, terraform, ansible, Docker
 
-### 소프트웨어인라이프
+#### 소프트웨어인라이프
 - [Docswave](http://www.softwareinlife.com/)
 - 백엔드 개발, 전체인프라 관리
 - 2015.04 ~ 2016.10
@@ -68,29 +68,29 @@
 - kt 유클라우드에서 구 인프라 이전
 - 사용기술 :  구글클라우드, spring
 
-### 인터파크
+#### 인터파크
 - [인터파크도서](http://book.interpark.com)
 - 백엔드 개발
 - 2014.03 ~ 2015.03
 - 인터파크 도서 사이트 개발
 - 사용기술 :  EJB, Struts, spring
 
-### 엘티케이솔루션
+#### 엘티케이솔루션
 - SI 개발
 - 2010.02 ~ 2014.02
-##### 프로젝트
+###### 프로젝트
 - 범한판토스 정산 시스템 개발(SAP, davon, Gauce)
 - 삼성 안드로이드 앱스토어 빌드팀(jenkins, weblogic)
 - SK브로드밴드 IPTV 백오피스 고도화(spring, oracle)
 - 코나미디어 물류 ERP개발(C#)
 
-### 비디에스인포컴
+#### 비디에스인포컴
 - 물류 ERP 개발
 - 2009.02 ~ 2010.02
 - 당사의 ERP
 - c#, apt.net, powerbuilder
 
-### 번외 프로젝트
+#### 번외 프로젝트
 - 고객사 요청으로 인한 레드마인 커스터 마이징 개발(ruby on rails)
 - 지엔클라우드 서비스 개발(kvm, python, flask, aws)
 - [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
