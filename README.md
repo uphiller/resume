@@ -17,13 +17,29 @@
 ### 벤디스
 - [식권대장](http://sikdae.com)
 - Frontend developer
-- 2017.02 ~ 재직중
+- 2016.09 ~ 재직중
 - 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 페이지 개발
-- 사용기술 : React, electron
+- 사용기술 : React, CSS, SASS, electron
 
-### 
+### f5family
+- Frontend developer
+- 2015.10 ~ 2016.08
+- 사고접수 어플리케이션, 노래방검색 어플리케이션, 심리상담 서비스, 키즈카페 입/퇴장관리 어플리케이션
+- Android, Jquery, Bootstrap
 
-## backend developer Career
+### 더몰
+- [더몰](http://www.the-mall.kr)
+- 쇼핑몰 개발 담당
+- 2015.05 ~ 2015.09
+- Spring, Jquery
+
+### 시시엔 소프트
+- 외주 사이트 개발
+- 2012.11 ~ 2015.04
+- 기아자동차 어플리케이션 관리 웹서비스, OllehTV 관리자 서비스, 보험사 및 펀드회원 관리 서비스 
+- Spring, Jquery
+
+## Backend developer Career
 
 ### 현재 프리랜서 프로젝트 진행중
 
@@ -75,7 +91,7 @@
 - c#, apt.net, powerbuilder
 
 ### 번외 프로젝트
-- 레드마인 커스터 마이징 개발(ruby on rails)
+- 고객사 요청으로 인한 레드마인 커스터 마이징 개발(ruby on rails)
 - 지엔클라우드 서비스 개발(kvm, python, flask, aws)
 - [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
 
