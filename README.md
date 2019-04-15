@@ -12,9 +12,9 @@
 그래서 출퇴근하지 않고 오로지 원격으로 일하고,  
 일하는 시간보다 생상성에 주안점을 두고 활동하기 위해 다양한 프로젝트에 컨택하고 있습니다.
 
-> Frontend developer Career
+## Frontend developer Career
 
-### 벤디스
+#### 벤디스
 - [식권대장](http://sikdae.com)
 - Frontend developer
 - 2016.09 ~ 재직중
