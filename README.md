@@ -19,7 +19,7 @@
 - Frontend developer
 - 2016.09 ~ 재직중
 - 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 어플리케이션 개발
-- 사용기술 : React, Reudx, MobX, Webpack, Nodejs, CSS, SASS, electron, Html5
+- 사용기술 : React, Redux, MobX, Webpack, Nodejs, CSS, SASS, electron, Html5
 
 #### f5family
 - Frontend developer
