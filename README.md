@@ -18,26 +18,26 @@
 - [식권대장](http://sikdae.com)
 - Frontend developer
 - 2016.09 ~ 재직중
-- 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 페이지 개발
-- 사용기술 : React, Webpack, CSS, SASS, electron
+- 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 어플리케이션 개발
+- 사용기술 : React, Reudx, MobX, Webpack, Nodejs, CSS, SASS, electron, Html5
 
 #### f5family
 - Frontend developer
 - 2015.10 ~ 2016.08
 - 사고접수 어플리케이션, 노래방검색 어플리케이션, 심리상담 서비스, 키즈카페 입/퇴장관리 어플리케이션
-- Android, Jquery, Bootstrap
+- Nodejs, Angular, Android, Jquery, Bootstrap, Html5
 
 #### 더몰
 - [더몰](http://www.the-mall.kr)
 - 쇼핑몰 개발 담당
 - 2015.05 ~ 2015.09
-- Spring, Jquery
+- Spring, JAVA, Jquery, JSP, Html5
 
 #### 시시엔 소프트
 - 외주 사이트 개발
 - 2012.11 ~ 2015.04
 - 기아자동차 어플리케이션 관리 웹서비스, OllehTV 관리자 서비스, 보험사 및 펀드회원 관리 서비스 
-- Spring, Jquery
+- Spring, JAVA, Jquery, JSP, Html5
 
 ## Backend developer Career
 
