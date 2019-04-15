@@ -1,4 +1,4 @@
-> infomation
+# infomation
 - 저희는 Front 개발 1명, Backend 개발 1명 팀으로 구성되어있습니다.
 - jason.uphiller@gmail.com
 - https://medium.com/@preiner
@@ -14,7 +14,7 @@
 
 ## Frontend developer Career
 
-### 벤디스
+> 벤디스
 - [식권대장](http://sikdae.com)
 - Frontend developer
 - 2016.09 ~ 재직중
