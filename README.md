@@ -84,7 +84,7 @@
 - SK브로드밴드 IPTV 백오피스 고도화(spring, oracle)
 - 코나미디어 물류 ERP개발(C#)
 
-### [비디에스인포컴](http://www.bdsic.co.kr/)
+### 비디에스인포컴
 - 물류 ERP 개발
 - 2009.02 ~ 2010.02
 - 당사의 ERP
