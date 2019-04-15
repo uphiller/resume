@@ -11,7 +11,8 @@
 - [토큰뱅크 어드민 사이트 개발](http://tokenbank.com)
 -  사용기술 : python, django, nodejs, AWS, vuejs, blockchain
 
-### [벤디스](sikdae.com)
+### 벤디스
+- [식권대장](sikdae.com)
 - DevOps
 - 2017.02 ~ 2018.06
 - kt 유클라우드에서 AWS 인프라 이전
