@@ -4,29 +4,32 @@
 
 # Career	
 ### [핵슬란트](http://www.hexlant.com)
-- 블록체인 관련 서비스 개발
-- 2018.07 ~ 재직중
-- 블록체인 강의 및 발표(SKP 이오스 컨트랙트 강의, [GDG부산](https://festa.io/events/119), [해킹방지워크샵](https://concert.or.kr/suf2018/program/program.php), [패스트캠퍼스](https://www.fastcampus.co.kr/dev_camp_eos/?gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyJB4DB7Vak3YvJXJ9IslTflWFCvBpgLvZ2whMzu5duc3TZjWiFuQTkaAipSEALw_wcB)  )
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
 - [토큰뱅크 어드민 사이트 개발](http://tokenbank.com)
+- [블록체인 노드 서비스](http://test-node.hexlant.com/api-docs/)
+- 블록체인 관련 서비스 개발
+- 2018.07 ~ 2019.04
+- 블록체인 강의 및 발표(SKP 이오스 컨트랙트 강의, [GDG부산](https://festa.io/events/119), [해킹방지워크샵](https://concert.or.kr/suf2018/program/program.php), [패스트캠퍼스](https://www.fastcampus.co.kr/dev_camp_eos/?gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyJB4DB7Vak3YvJXJ9IslTflWFCvBpgLvZ2whMzu5duc3TZjWiFuQTkaAipSEALw_wcB)  )
 -  사용기술 : python, django, nodejs, AWS, vuejs, blockchain
 
 ### 벤디스
-- [식권대장](sikdae.com)
+- [식권대장](http://sikdae.com)
 - DevOps
 - 2017.02 ~ 2018.06
 - kt 유클라우드에서 AWS 인프라 이전
 - 인프라 전체관리 , CI/CD관리
 - 사용기술 :  AWS, gitlab, jenkins, terraform, ansible, django
 
-### [소프트웨어인라이프](http://www.softwareinlife.com/)
+### 소프트웨어인라이프
+- Docswave(http://www.softwareinlife.com/)
 - 백엔드 개발, 전체인프라 관리
 - 2015.04 ~ 2016.10
 - 닥스웨이브 2.0 개발
 - kt 유클라우드에서 구 인프라 이전
 - 사용기술 :  구글클라우드, spring
 
-### [인터파크](http://www.interpark.com)
+### [인터파크]
+- 인터파크도서(http://www.interpark.com)
 - 백엔드 개발
 - 2014.03 ~ 2015.03
 - 인터파크 도서 사이트 개발
