@@ -19,7 +19,7 @@
 - Frontend developer
 - 2016.09 ~ 재직중
 - 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 페이지 개발
-- 사용기술 : React, CSS, SASS, electron
+- 사용기술 : React, Webpack, CSS, SASS, electron
 
 #### f5family
 - Frontend developer
