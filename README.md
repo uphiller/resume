@@ -21,7 +21,7 @@
 - 사용기술 :  AWS, gitlab, jenkins, terraform, ansible, django
 
 ### 소프트웨어인라이프
-- Docswave(http://www.softwareinlife.com/)
+- [Docswave](http://www.softwareinlife.com/)
 - 백엔드 개발, 전체인프라 관리
 - 2015.04 ~ 2016.10
 - 닥스웨이브 2.0 개발
