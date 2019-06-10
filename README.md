@@ -8,7 +8,7 @@
 #### 벤디스
 - [식권대장](http://sikdae.com)
 - Frontend developer
-- 2016.09 ~ 재직중
+- 2016.09 ~ 2019.05
 - 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 어플리케이션 개발
 - 사용기술 : React, Redux, MobX, Webpack, Nodejs, CSS, SASS, electron, Html5
 
