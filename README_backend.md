@@ -1,4 +1,4 @@
-## Backend developer Career
+## 개발자 곽영호 
 
 #### 현재 프리랜서 프로젝트 진행중
 
