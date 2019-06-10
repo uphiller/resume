@@ -5,6 +5,8 @@
 
 ## Frontend developer Career
 
+#### 현재 프리랜서 프로젝트 진행중
+
 #### 벤디스
 - [식권대장](http://sikdae.com)
 - Frontend developer
