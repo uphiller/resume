@@ -84,7 +84,6 @@
 - c#, apt.net, powerbuilder
 
 #### 번외 프로젝트
-- 고객사 요청으로 인한 레드마인 커스터 마이징 개발(ruby on rails)
 - 지엔클라우드 서비스 개발(kvm, python, flask, aws)
 - [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
 
