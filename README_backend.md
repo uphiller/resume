@@ -4,7 +4,7 @@
 
 #### 핵슬란트
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
-- [토큰뱅크 어드민 사이트 개발](http://tokenbank.com)
+- [토큰뱅크 어드민 사이트 개발](http://tokenbank.co.kr)
 - [블록체인 노드 서비스](http://test-node.hexlant.com/api-docs/)
 - 블록체인 관련 서비스 개발
 - 2018.07 ~ 2019.04
