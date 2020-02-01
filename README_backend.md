@@ -1,6 +1,8 @@
 ## 곽영호 
 
-#### 현재 프리랜서 프로젝트 진행중
+#### 프리랜서
+- [스파르타코딩클럽 5기 튜터](https://spartacodingclub.kr)
+- 프로젝트 진행중
 
 #### 핵슬란트
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
