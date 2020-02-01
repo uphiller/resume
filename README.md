@@ -1,44 +1,14 @@
-# infomation
-- 저희는 Front 개발 1명, Backend 개발 1명 팀으로 구성되어있습니다.
-- retailersdev@gmail.com
-- https://medium.com/@preiner
+## 곽영호 
 
-## Frontend developer Career
-
-#### 현재 프리랜서 프로젝트 진행중
-
-#### 벤디스
-- [식권대장](http://sikdae.com)
-- Frontend developer
-- 2016.09 ~ 2019.05
-- 회사관리자, 홈페이지, 식당용 하이브리드앱, POS기기용 어플리케이션 개발
-- 사용기술 : React, Redux, MobX, Webpack, Nodejs, CSS, SASS, electron, Html5
-
-#### f5family
-- Frontend developer
-- 2015.10 ~ 2016.08
-- 사고접수 어플리케이션, 노래방검색 어플리케이션, 심리상담 서비스, 키즈카페 입/퇴장관리 어플리케이션
-- Nodejs, Angular, Android, Jquery, Bootstrap, Html5
-
-#### 더몰
-- [더몰](http://www.the-mall.kr)
-- 쇼핑몰 개발 담당
-- 2015.05 ~ 2015.09
-- Spring, JAVA, Jquery, JSP, Html5
-
-#### 시시엔 소프트
-- 외주 사이트 개발
-- 2012.11 ~ 2015.04
-- 기아자동차 어플리케이션 관리 웹서비스, OllehTV 관리자 서비스, 보험사 및 펀드회원 관리 서비스 
-- Spring, JAVA, Jquery, JSP, Html5
-
-## Backend developer Career
-
-#### 현재 프리랜서 프로젝트 진행중
+#### 프리랜서
+- [스파르타코딩클럽 5기 튜터](https://spartacodingclub.kr)
+- 쿠버네티스 책 집필중 4월 출간예정
+- 프로젝트 진행중
+- 사용기술: AWS, Docker, Springboot
 
 #### 핵슬란트
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
-- [토큰뱅크 어드민 사이트 개발](http://tokenbank.com)
+- [토큰뱅크 어드민 사이트 개발](http://tokenbank.co.kr)
 - [블록체인 노드 서비스](http://test-node.hexlant.com/api-docs/)
 - 블록체인 관련 서비스 개발
 - 2018.07 ~ 2019.04
@@ -86,13 +56,3 @@
 #### 번외 프로젝트
 - 지엔클라우드 서비스 개발(kvm, python, flask, aws)
 - [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
-
-## 현재 원하는 일하는 방식
-10년 정도 출퇴근하면서 일해보니 정해진 장소, 정해진 시간에 출근해서 일한다는 것이  
-생산성에 얼마나 도움이 될지 생각했습니다.  
-출퇴근에서 소요되는 시간 정해진 공간에서 일하면서  
-집중에 방해되는 시간들이 많이 있다는 것도 깨달았습니다.  
-**나는 4시간만 일한다**는 책을 보면서 그런 생각이 좀 더 구체화되었고  
-그래서 출퇴근하지 않고 오로지 원격으로 일하고,  
-일하는 시간보다 생상성에 주안점을 두고 활동하기 위해 다양한 프로젝트에 컨택하고 있습니다.
-
