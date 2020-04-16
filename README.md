@@ -4,7 +4,7 @@
 - [스파르타코딩클럽 5기 튜터](https://spartacodingclub.kr)
 - 쿠버네티스 책 집필중 4월 출간예정
 - 프로젝트 진행중
-- 사용기술: AWS, Docker, Springboot
+- 사용기술 : AWS, Docker, Springboot
 
 #### 핵슬란트
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
@@ -21,7 +21,7 @@
 - 2017.02 ~ 2018.06
 - kt 유클라우드에서 AWS 인프라 이전
 - 인프라 전체관리 , CI/CD관리
-- 사용기술 :  AWS, gitlab, jenkins, terraform, ansible, Docker
+- 사용기술 :  AWS, Gitlab, Jenkins, Terraform, Ansible, Docker
 
 #### 소프트웨어인라이프
 - [Docswave](http://www.softwareinlife.com/)
@@ -50,9 +50,10 @@
 #### 비디에스인포컴
 - 물류 ERP 개발
 - 2009.02 ~ 2010.02
-- 당사의 ERP
-- c#, apt.net, powerbuilder
+- ERP 솔루션 개발
+- C#, ASP.net, PowerBuilder
 
 #### 번외 프로젝트
 - 지엔클라우드 서비스 개발(kvm, python, flask, aws)
 - [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
+- [쿠비 질문 플랫폼 개발](https://www.qoovie.com/)
