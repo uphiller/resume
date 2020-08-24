@@ -1,10 +1,11 @@
 ## 곽영호 
 
 #### 프리랜서
-- [스파르타코딩클럽 5기 튜터](https://spartacodingclub.kr)
-- 쿠버네티스 책 집필중 4월 출간예정
+- [스파르타코딩클럽 5기, 9기 튜터](https://spartacodingclub.kr)
 - 프로젝트 진행중
 - 사용기술 : AWS, Docker, Springboot
+- 저서 : [알면더쉬운 도커 쿠버네티스](https://book.naver.com/bookdb/book_detail.nhn?bid=16493225)
+- 2019.04 ~ 현재
 
 #### 핵슬란트
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
