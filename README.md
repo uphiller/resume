@@ -57,4 +57,3 @@
 #### 번외 프로젝트
 - 지엔클라우드 서비스 개발(kvm, python, flask, aws)
 - [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
-- [쿠비 질문 플랫폼 개발](https://www.qoovie.com/)
