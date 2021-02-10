@@ -1,7 +1,7 @@
 ## 곽영호 - 12년
 
 #### 프리랜서
-- [스파르타코딩클럽 5기, 9기,10기,쉬플리코리아 튜터](https://spartacodingclub.kr)
+- [스파르타코딩클럽 5기, 9기,10기,11기, 쉬플리코리아 튜터](https://spartacodingclub.kr)
 - 프로젝트 진행중
 - 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA
 - 저서 : [알면더쉬운 도커 쿠버네티스](https://book.naver.com/bookdb/book_detail.nhn?bid=16493225)
