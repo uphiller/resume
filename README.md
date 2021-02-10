@@ -1,4 +1,4 @@
-## 곽영호 - 11년 9개월
+## 곽영호 - 12년
 
 #### 프리랜서
 - [스파르타코딩클럽 5기, 9기,10기,쉬플리코리아 튜터](https://spartacodingclub.kr)
@@ -6,6 +6,10 @@
 - 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA
 - 저서 : [알면더쉬운 도커 쿠버네티스](https://book.naver.com/bookdb/book_detail.nhn?bid=16493225)
 - 2019.04 ~ 현재
+###### 프로젝트
+- 한화생명 보험상담사(LCP) 프로젝트
+- 아이스크림에듀 네이버 클로바 연동 프로젝트
+- 휴넷 차세대 프로젝트
 
 #### 핵슬란트
 - [ERC20 컨트랙트 Audit 서비스 개발](http://certificate.hexlant.com)
