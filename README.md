@@ -1,12 +1,13 @@
 ## 곽영호 - 12년
 
 #### 프리랜서
+- 스파르타코딩클럽 k-digital training 튜터
 - [스파르타코딩클럽 핵심 쏙쏙 AWS](https://spartacodingclub.kr/online/aws/drill)
 - [스파르타코딩클럽 5기, 9기,10기,11기, 쉬플리코리아 튜터](https://spartacodingclub.kr)
-- 프로젝트 진행중
 - 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA
 - 저서 : [알면더쉬운 도커 쿠버네티스](https://book.naver.com/bookdb/book_detail.nhn?bid=16493225)
 - 2019.04 ~ 현재
+
 ###### 프로젝트
 - GS홈쇼핑 TA 프로젝트
 - 한화생명 보험상담사(LCP) 프로젝트
