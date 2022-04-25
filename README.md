@@ -2,8 +2,8 @@
 
 #### 프리랜서
 - 스파르타코딩클럽 k-digital training 튜터
-- [스파르타코딩클럽 핵심 쏙쏙 AWS](https://spartacodingclub.kr/online/aws/drill)
-- [스파르타코딩클럽 심화 쏙쏙 AWS](https://spartacodingclub.kr/online/aws_plus)
+- [스파르타코딩클럽 핵심 쏙쏙 AWS](https://spartacodingclub.kr/online/drill/aws)
+- [스파르타코딩클럽 심화 쏙쏙 AWS](https://spartacodingclub.kr/online/aws/plus)
 - [스파르타코딩클럽 5기, 9기,10기,11기, 쉬플리코리아 튜터](https://spartacodingclub.kr)
 - 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA, PHP, Python, Nodejs, Vuejs, Flutter etc
 - 저서 : [알면더쉬운 도커 쿠버네티스](https://book.naver.com/bookdb/book_detail.nhn?bid=16493225)
