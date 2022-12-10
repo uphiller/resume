@@ -10,7 +10,7 @@
 - 2019.04 ~ 현재
 
 ###### 프로젝트
-- 삼성SDS 퍼블릭클라우드 구축 프로젝트(Spring)
+- [삼성SDS 퍼블릭클라우드 구축 프로젝트(Spring)](https://cloud.samsungsds.com/serviceportal/index.html)
 - GS홈쇼핑 TA 프로젝트(Spring)
 - 한화생명 보험상담사(LCP) 프로젝트(Spring)
 - 아이스크림에듀 네이버 클로바 연동 프로젝트(Python)
@@ -34,7 +34,7 @@
 - 사용기술 :  AWS, Gitlab, Jenkins, Terraform, Ansible, Docker
 
 #### 소프트웨어인라이프
-- [Docswave](http://www.softwareinlife.com/)
+- [Docswave](https://www.docswave.com/)
 - 백엔드 개발, 데브옵스 엔지니어
 - 2015.04 ~ 2016.10
 - 닥스웨이브 2.0 개발
