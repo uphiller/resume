@@ -14,8 +14,8 @@
 - 한화생명 보험상담사(LCP) 프로젝트(Spring)
 - 아이스크림에듀 네이버 클로바 연동 프로젝트(Python)
 - 휴넷 차세대 프로젝트(Spring)
-- 지엔클라우드 서비스 개발(kvm, python, flask, aws)
-- [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(android, nodejs, vuejs)
+- 지엔클라우드 서비스 개발(Kvm, Python, Flask, AWS)
+- [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(Nodejs, Vuejs)
 - [국립일제강제동원역사관 전시앱](https://play.google.com/store/apps/details?id=com.museum.exhibition_guide_app)
 
 ###### 강의
@@ -40,7 +40,7 @@
 - 블록체인 관련 서비스 개발
 - 2018.07 ~ 2019.04
 - 블록체인 강의 및 발표(SKP 이오스 컨트랙트 강의, [GDG부산](https://festa.io/events/119), [해킹방지워크샵](https://concert.or.kr/suf2018/program/program.php), [패스트캠퍼스](https://www.fastcampus.co.kr/dev_camp_eos/?gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyJB4DB7Vak3YvJXJ9IslTflWFCvBpgLvZ2whMzu5duc3TZjWiFuQTkaAipSEALw_wcB)  )
--  사용기술 : python, django, nodejs, AWS, vuejs, blockchain
+-  사용기술 : Python, Django, Nodejs, AWS, Vuejs, Blockchain
 
 ###### 벤디스
 - [식권대장](http://sikdae.com)
