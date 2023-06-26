@@ -3,7 +3,7 @@
 #### 프리랜서
 
 ###### 기간
-- 2019.04 ~ 현재(3년 9개월)
+- 2019.04 ~ 현재(4년 3개월)
 
 ###### 사용기술
 - 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA, PHP, Python, Nodejs, Vuejs
