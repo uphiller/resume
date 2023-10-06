@@ -1,14 +1,15 @@
-## 곽영호 - 14년 1개월
+## 곽영호 - 14년 6개월
 
 #### 프리랜서
 
 ###### 기간
-- 2019.04 ~ 현재(4년 3개월)
+- 2019.04 ~ 현재(4년 6개월)
 
 ###### 사용기술
-- 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA, PHP, Python, Nodejs, Vuejs
+- 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA, PHP, Python, Nodejs, Vue
 
 ###### 프로젝트
+- [포스코 체인지업그라운드 포항 입출입 관리 시스템 구축(Spring, vue3, react)](http://www.changeupground.com/)
 - [삼성SDS 퍼블릭클라우드 구축 프로젝트(Spring)](https://cloud.samsungsds.com/serviceportal/index.html)
 - GS홈쇼핑 TA 프로젝트(Spring)
 - 한화생명 보험상담사(LCP) 프로젝트(Spring)
