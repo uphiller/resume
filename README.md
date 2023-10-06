@@ -7,7 +7,9 @@
 
 ###### 사용기술
 - 사용기술
-  - AWS, Docker, Kubernetes, Springboot, JPA, PHP, Python, Nodejs, Vue
+  - 인프라 : AWS, Docker, Kubernetes
+  - 벡엔드 : Springboot, Python, PHP, Nodejs, Golang
+  - 프론트 : Vue, React, Flutter
 
 ###### 프로젝트
 - [포스코 체인지업그라운드 포항 입출입 관리 시스템 구축(Spring, vue3, react)](http://www.changeupground.com/)
