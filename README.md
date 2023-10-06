@@ -6,7 +6,8 @@
 - 2019.04 ~ 현재(4년 6개월)
 
 ###### 사용기술
-- 사용기술 : AWS, Docker, Kubernetes, Springboot, JPA, PHP, Python, Nodejs, Vue
+- 사용기술
+  - AWS, Docker, Kubernetes, Springboot, JPA, PHP, Python, Nodejs, Vue
 
 ###### 프로젝트
 - [포스코 체인지업그라운드 포항 입출입 관리 시스템 구축(Spring, vue3, react)](http://www.changeupground.com/)
