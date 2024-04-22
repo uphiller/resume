@@ -7,7 +7,7 @@
 
 ###### 사용기술
 - 사용기술
-  - 인프라 : AWS, Docker, Kubernetes
+  - 인프라 : AWS, Docker, K8S
   - 벡엔드 : Springboot, Python, PHP, Nodejs, Golang
   - 프론트 : Vue, React, Flutter
 
