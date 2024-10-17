@@ -12,6 +12,7 @@
   - 프론트 : Vue, React, Flutter
 
 ###### 프로젝트
+- [삼성카드 통합쇼핑몰 인프라 엔지니어(AWS, Jeus, Spring)](https://shopping.samsungcard.com/)
 - 인스웨이브시스템즈 클라우드 엔지니어(AWS, Docker, K8S, Spirng)
 - [포스코 체인지업그라운드 포항 입출입 관리 시스템 구축(Spring, vue3, react)](http://www.changeupground.com/)
 - [삼성SDS 퍼블릭클라우드 구축 프로젝트(Spring)](https://cloud.samsungsds.com/serviceportal/index.html)
