@@ -1,9 +1,9 @@
-## 곽영호 - 15년 6개월
+## 곽영호 - 16년 4개월
 
 #### 프리랜서
 
 ###### 기간
-- 2019.04 ~ 현재(5년 8개월)
+- 2019.04 ~ 현재(6년 2개월)
 
 ###### 사용기술
 - 사용기술
@@ -12,6 +12,7 @@
   - 프론트 : Vue, React, Flutter
 
 ###### 프로젝트
+- 현대글로비스 서열시스템 개발
 - [삼성카드 통합쇼핑몰 인프라 엔지니어(AWS, Jeus, Spring)](https://shopping.samsungcard.com/)
 - 인스웨이브시스템즈 클라우드 엔지니어(AWS, Docker, K8S, Spirng)
 - [포스코 체인지업그라운드 포항 입출입 관리 시스템 구축(Spring, vue3, react)](http://www.changeupground.com/)
