@@ -6,6 +6,7 @@
 - admin[https://admin.bettercodelab.com/]
   - 인프라: cloudflare, IWINV CLOUD
   - 개발: nextjs, typescript, supabase, keycloak
+  - 결제: stripe
   - 계정: demo/demo1234
   - 특이사항: 커서와 협업 하여 빠르게 프로토타입 구현
 
