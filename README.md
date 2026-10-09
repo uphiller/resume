@@ -1,9 +1,13 @@
 ## 곽영호 - 17년
 
 #### 포트폴리오
+- ai 프로토타입 쇼핑몰
 - shop[https://shop.bettercodelab.com/]
+- admin[https://admin.bettercodelab.com/]
   - 인프라: cloudflare, IWINV CLOUD
-  - 개발: nextjs, typescript, supabase
+  - 개발: nextjs, typescript, supabase, keycloak
+  - 계정: demo/demo1234
+  - 특이사항: 커서와 협업 하여 빠르게 프로토타입 구현
 
 #### 프리랜서
 
