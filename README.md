@@ -55,6 +55,9 @@
 - [아이디어를 2주만에 테스트 앱으로 개발 몰라도 OK](https://kmong.com/gig/724302)
 - [시니어 개발자의 클라우드 설계부터 이전 배포까지](https://kmong.com/gig/483922)
 
+##### 블로그
+- [블로그](https://preiner.medium.com/)
+
 
 #### 정규직
 
