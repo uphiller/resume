@@ -1,5 +1,10 @@
 ## 곽영호 - 17년
 
+#### 포트폴리오
+- shop[https://shop.bettercodelab.com/]
+  - 인프라: cloudflare, IWINV CLOUD
+  - 개발: nextjs, typescript, supabase
+
 #### 프리랜서
 
 ###### 기간
