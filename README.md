@@ -49,6 +49,10 @@
 ###### 저서
 - [알면더쉬운 도커 쿠버네티스](https://book.naver.com/bookdb/book_detail.nhn?bid=16493225)
 
+###### 크몽
+- [아이디어를 2주만에 테스트 앱으로 개발 몰라도 OK](https://kmong.com/gig/724302)
+- [시니어 개발자의 클라우드 설계부터 이전 배포까지](https://kmong.com/gig/483922)
+
 
 #### 정규직
 
