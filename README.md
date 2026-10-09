@@ -1,4 +1,4 @@
-## 곽영호 - 16년 11개월
+## 곽영호 - 17년 0개월
 
 #### 프리랜서
 
@@ -12,7 +12,8 @@
   - 프론트 : Vue, React, Flutter
 
 ###### 프로젝트
-- 현대글로비스 서열시스템 개발
+- 삼성SDS 위험성평가 시스템 개발(vue3,Spring)
+- 현대글로비스 서열시스템 개발(Spring,Spring batch)
 - [삼성카드 통합쇼핑몰 인프라 엔지니어(AWS, Jeus, Spring)](https://shopping.samsungcard.com/)
 - 인스웨이브시스템즈 클라우드 엔지니어(AWS, Docker, K8S, Spirng)
 - [포스코 체인지업그라운드 포항 입출입 관리 시스템 구축(Spring, vue3, react)](http://www.changeupground.com/)
