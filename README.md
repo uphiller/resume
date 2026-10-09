@@ -25,7 +25,7 @@
   - 벡엔드 : Springboot, Python, PHP, Nodejs, Golang
   - 프론트 : Vue, React, Flutter
 
-###### 프로젝트
+###### 주요 프로젝트
 - 삼성SDS 위험성평가 시스템 개발(vue3,Spring)
 - 현대글로비스 서열시스템 개발(Spring,Spring batch)
 - [삼성카드 통합쇼핑몰 인프라 엔지니어(AWS, Jeus, Spring)](https://shopping.samsungcard.com/)
@@ -38,7 +38,7 @@
 - 휴넷 차세대 프로젝트(Spring)
 - 지엔클라우드 서비스 개발(Kvm, Python, Flask, AWS)
 - [기업교육 하이브리드앱개발](http://planchee.actiongo.co.kr)(Nodejs, Vuejs)
-- [국립일제강제동원역사관 전시앱](https://play.google.com/store/apps/details?id=com.museum.exhibition_guide_app)
+- [국립일제강제동원역사관 전시앱(Flutter)](https://play.google.com/store/apps/details?id=com.museum.exhibition_guide_app)
 
 ###### 강의
 - 스파르타코딩클럽 k-digital training 튜터
