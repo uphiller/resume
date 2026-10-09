@@ -45,6 +45,8 @@
 - 스파르타코딩클럽 핵심 쏙쏙 AWS 온라인 강의 튜터
 - 스파르타코딩클럽 심화 쏙쏙 AWS 온라인 강의 튜터
 - [스파르타코딩클럽 5기, 9기,10기,11기, 쉬플리코리아 튜터](https://spartacodingclub.kr)
+- [해킹방지워크샵](https://concert.or.kr/suf2018/program/program.php)
+- 2018 GDG 부산
 
 ###### 저서
 - [알면더쉬운 도커 쿠버네티스](https://book.naver.com/bookdb/book_detail.nhn?bid=16493225)
